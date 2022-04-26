@@ -1,0 +1,27 @@
+.heading
+{
+  width: 1450px;
+  padding: 10px;
+  border: 5px solid aqua;
+  margin: 0;
+}
+.heading_div
+{
+  padding: 10px;
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+  padding: 10px;
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.result_para_tag
+{
+  color:red;
+}
